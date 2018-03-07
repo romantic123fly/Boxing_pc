@@ -1,0 +1,11 @@
+5.6.0f3:3.1.0.0
+StandaloneWindows
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/Managed/UnityEngine.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+D:/安装包/UnityVersion/Unity5.6.0f3/Editor/Data/Managed/UnityEditor.dll
